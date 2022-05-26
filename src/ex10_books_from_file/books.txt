@@ -1,0 +1,8 @@
+Harry Potter and the Sorcerer's Stone,1997,223,J.K. Rowling
+Harry Potter and the Chamber of Secrets,1998,251,J.K. Rowling
+Harry Potter and the Prisoner of Azkaban,1999,317,J.K. Rowling
+Harry Potter and the Goblet of Fire,2000,636,J.K. Rowling
+Noot Noot and the Wild Adventure
+Harry Potter and the Order of the Phoenix,2003,766,J.K. Rowling
+Harry Potter and the Half-Blood Prince,2005,607,J.K. Rowling
+Harry Potter and the Deathly Hallows,2007,607,J.K. Rowling
